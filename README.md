@@ -13,6 +13,7 @@ If you find this repository useful, please consider  **giving us a star** 🌟
 ### 2025
 - [2025.12] WholeBodyVLA: Towards Unified Latent VLA for Whole-Body Loco-Manipulation Control [[Paper]](https://arxiv.org/pdf/2512.11047) [[Project]](https://opendrivelab.com/wholebodyvla)
 - [2025.11] EgoControl: Controllable Egocentric Video Generation via 3D Full-Body Poses [[Paper]](https://arxiv.org/pdf/2511.18173) [[Project]](https://cvg-bonn.github.io/EgoControl/)
+- [2025.09] RynnVLA-001: Using Human Demonstrations to Improve Robot Manipulation [[Paper]](https://arxiv.org/pdf/2509.15212) [[Code]](https://github.com/alibaba-damo-academy/RynnVLA-001)
 - [2025.08] EgoTwin: Dreaming Body and View in First Person [[Paper]](https://arxiv.org/pdf/2508.13013) [[Project]](https://egotwin.pages.dev/)
 - [2025.07] Being-H0: Vision-Language-Action Pretraining from Large-Scale Human Videos [[Paper]](https://arxiv.org/pdf/2507.15597?) [[Project]](https://beingbeyond.github.io/Being-H0/)
 - [2025.06] Whole-Body Conditioned Egocentric Video Prediction [[Paper]](https://arxiv.org/pdf/2506.21552) [[Project]](https://dannytran123.github.io/PEVA/)
